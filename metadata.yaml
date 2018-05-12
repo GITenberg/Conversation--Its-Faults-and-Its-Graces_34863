@@ -15,6 +15,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34863#Conversation--Its-Faults-and-Its-Graces
 gutenberg_issued: '2011-01-06'
 gutenberg_type: Text
 identifiers:
